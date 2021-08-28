@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fba28c5-c58e-4a0a-990f-ebe87f3d41e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todo-app-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/no-items.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainLayout/MainLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddTodo/AddTodoBlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModal/EditModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppLoader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/AppTextBold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/screen/ScreenContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/screen/ScreenReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/screen/ScreenState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/TodoContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/TodoReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/todo/TodoState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/MainScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TodoScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/themes/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="todo-app-01/invalid/Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1ubDlSRq7mEWSq5J47BOb9ypfy0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\context\screen" />
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\components\ui" />
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\screens" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\assets\fonts" />
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\components\NavBar" />
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\components\AddTodo\AddTodoButton" />
+      <recent name="C:\Users\maksb\Desktop\tripp\Программирование\Web\FrontEnd\JavaScript\react-native\projects\todo-app-01\src\components\AddTodo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fba28c5-c58e-4a0a-990f-ebe87f3d41e6" name="Default Changelist" comment="" />
+      <created>1624925545579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624925545579</updated>
+      <workItem from="1624960043352" duration="66588000" />
+      <workItem from="1625223979775" duration="1302000" />
+      <workItem from="1625225375992" duration="183000" />
+      <workItem from="1625245179051" duration="1262000" />
+      <workItem from="1625935918700" duration="1667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
